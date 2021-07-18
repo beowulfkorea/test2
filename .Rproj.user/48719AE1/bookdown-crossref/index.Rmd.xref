@@ -1,0 +1,16 @@
+h1:the-simple-linear-regression-model The Simple Linear Regression Model
+h2:load-data LOAD DATA
+h2:data-summary DATA Summary
+h2:plot-data Plot Data
+h2:model Model
+h2:variables Variables
+h2:estimation Estimation
+h2:results Results
+h2:b1-b2 b1, b2
+h2:least-sqaures-prediction-one-time Least sqaures prediction (one time)
+h2:least-sqaures-prediction-one-time-1 Least sqaures prediction (one time)
+h2:least-sqaures-prediction-one-time-2 Least sqaures prediction (one time)
+h2:least-sqaures-prediction-1000-times Least sqaures prediction (1,000 times)
+h2:least-sqaures-prediction-1000-times-1 Least sqaures prediction (1,000 times)
+h2:save-data Save DATA
+
